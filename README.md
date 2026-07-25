@@ -1,14 +1,35 @@
-﻿# 📄 AI Resume Analyzer
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
-![Streamlit](https://img.shields.io/badge/Streamlit-Framework-red?logo=streamlit)
-![License](https://img.shields.io/badge/License-MIT-green)
-![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)
-![Status](https://img.shields.io/badge/Status-Active-success)
+﻿
+<p align="center">
+  <img src="assets/banner.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/logo.png" width="170">
+</p>
+
+<h1 align="center">AI Resume Analyzer</h1>
+
+<p align="center">
+AI-powered Resume Analyzer using Streamlit & Python
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python">
+  <img src="https://img.shields.io/badge/Streamlit-Framework-red?logo=streamlit">
+  <img src="https://img.shields.io/badge/License-MIT-green">
+  <img src="https://img.shields.io/badge/GitHub-Repository-black?logo=github">
+  <img src="https://img.shields.io/badge/Status-Active-success">
+</p>
+
+<br>
+
+---
 
 An AI-powered Resume Analyzer built using **Python** and **Streamlit** that evaluates resumes, calculates ATS scores, detects skills, analyzes resume sections, provides personalized learning recommendations, and measures placement readiness.
 
 ---
-
 ## 🚀 Features
 
 - 📂 Upload Resume (PDF)
