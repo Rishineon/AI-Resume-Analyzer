@@ -1,19 +1,16 @@
-﻿
-<p align="center">
+﻿<p align="center">
   <img src="assets/banner.png" width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/logo.png" width="170">
+  <img src="assets/logo.png" width="140">
 </p>
 
 <h1 align="center">AI Resume Analyzer</h1>
 
 <p align="center">
-AI-powered Resume Analyzer using Streamlit & Python
+AI-powered Resume Analysis using Streamlit & Python
 </p>
-
-<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python">
@@ -23,136 +20,54 @@ AI-powered Resume Analyzer using Streamlit & Python
   <img src="https://img.shields.io/badge/Status-Active-success">
 </p>
 
-<br>
-
 ---
 
-An AI-powered Resume Analyzer built using **Python** and **Streamlit** that evaluates resumes, calculates ATS scores, detects skills, analyzes resume sections, provides personalized learning recommendations, and measures placement readiness.
+## 📖 About
+AI Resume Analyzer is an intelligent web application that evaluates resumes using AI techniques. It extracts resume content, detects technical skills, calculates ATS scores, identifies missing skills, recommends learning resources, and predicts placement readiness through an interactive Streamlit interface.
 
 ---
-## 🚀 Features
+# 📸 Project Preview
 
-- 📂 Upload Resume (PDF)
-- 📑 Extract Resume Text
-- 🧠 Automatic Skill Detection
+### Home Page
+
+<p align="center">
+<img src="assets/screenshots/home.png" width="90%">
+</p>
+
+### Resume Analysis
+
+<p align="center">
+<img src="assets/screenshots/result.png" width="90%">
+</p>
+
+AI Resume Analyzer is an intelligent web application that evaluates resumes using AI techniques. It extracts resume content, detects technical skills, calculates ATS scores, identifies missing skills, recommends learning resources, and predicts placement readiness through an interactive Streamlit interface.
+---
+# ✨ Features
+
+- 📄 Resume Parsing (PDF)
+- 🧠 AI-powered Skill Detection
 - 📊 ATS Score Calculation
 - 📈 Resume Match Percentage
-- 🏢 Company-wise ATS Requirements
 - 💼 Role-based Skill Analysis
+- 🏢 Company Requirement Matching
 - 🎯 Missing Skill Identification
-- 📚 Personalized Learning Recommendations
+- 📚 Personalized Course Recommendations
 - 📥 Download Resume Analysis Report
-- 📉 Skill Gap Analysis
-- 🎯 Placement Readiness Prediction
----
+- 📊 Skill Gap Analysis
+- 🚀 Placement Readiness Prediction
 
-# 🎨 Frontend
+# 🛠 Tech Stack
 
-### Technologies Used
-
-- Streamlit
-- HTML (via Streamlit Components)
-- CSS
-- Python
-
-### Frontend Features
-
-- Interactive Dashboard
-- Resume Upload Interface
-- ATS Score Dashboard
-- Resume Match Visualization
-- Skill Gap Analysis Charts
-- Download Report Button
----
-
-# ⚙️ Backend
-
-### Technologies Used
-
-- Python
-- pdfplumber
-- Matplotlib
-- Streamlit
-
-### Backend Features
-
-- PDF Resume Parsing
-- Resume Text Extraction
-- Skill Detection
-- AI Suggestions
-- Download Report
-
-- ---
-
-## 🎨 Frontend
-
-The frontend is built using **Streamlit** to provide an interactive and user-friendly interface.
-
-### Technologies Used
-- Streamlit
-- HTML (via Streamlit)
-- CSS (Custom Styling)
-
-### Features
-- Resume Upload
-- ATS Score Display
-- Interactive Dashboard
-- Resume Analysis Results
-- Responsive User Interface
-
----
-
-## ⚙️ Backend
-
-The backend is developed using **Python** and performs resume parsing and AI-based analysis.
-
-### Technologies Used
-- Python
-- Streamlit
-- PyPDF2
-- pdfplumber
-- spaCy
-- scikit-learn
-- Pandas
-- NumPy
-
-### Features
-- Resume Text Extraction
-- Skill Extraction
-- Keyword Matching
-- ATS Score Calculation
-- Resume Analysis
-- Job Recommendation
-- Data Processing
-
-## Installation
-
-pip install -r requirements.txt
-
-streamlit run app.py
-
-## Author
-
-Rishi Kumar
-
-- ATS Score Calculation
-- Resume Match Calculation
-- Company-wise ATS Analysis
-- Learning Recommendation Engine
-- Placement Readiness Analysis
----
-
-# 💻 Tech Stack
-
-| Technology | Purpose |
-|------------|---------|
-| Python | Backend Development |
-| Streamlit | Frontend UI |
-| pdfplumber | Resume Parsing |
-| Matplotlib | Data Visualization |
-| Git | Version Control |
-| GitHub | Project Hosting |
----
+| Category | Technologies |
+|----------|--------------|
+| Programming | Python |
+| Framework | Streamlit |
+| AI / NLP | spaCy |
+| Machine Learning | Scikit-learn |
+| PDF Parsing | PyPDF2, pdfplumber |
+| Data Processing | Pandas, NumPy |
+| Visualization | Matplotlib |
+| Version Control | Git & GitHub |
 
 # 📂 Project Structure
 
