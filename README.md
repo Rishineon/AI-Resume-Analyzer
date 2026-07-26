@@ -26,7 +26,9 @@ An AI-powered Resume Analyzer built using Python and Streamlit to evaluate resum
 AI Resume Analyzer is a web application developed using **Python** and **Streamlit**. It helps students and job seekers analyze their resumes by extracting text from PDF files, identifying technical skills, calculating an ATS (Applicant Tracking System) score, checking resume sections, comparing resumes against job roles and company requirements, recommending learning resources, and predicting placement readiness.
 
 ---
+## 🌐 Live Demo
 
+👉 **Try the application here:** https://ai-resume-analyzer-ruwyhw7edjn5zhlzsw2hsb.streamlit.app
 # ✨ Features
 
 - 📄 Resume PDF Upload
